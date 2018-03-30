@@ -6,11 +6,11 @@ You can fork the project and kickstart your project without dealing with boilerp
 *** server/config/dev.js file is not included in the commit since you are not supposed to have this file committed for safety reasons. 
 You can create the file and add your API keys like below:
 
-module.exports = {
-    googleClientID: 'xxxxxxxxxxxxxxxxxxxxxx',
-    googleClientSecret: 'xxxxxxxxxxxxxxxxxx',
-    mongoURI: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-    cookieKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxx',
+module.exports = {/n
+    googleClientID: 'xxxxxxxxxxxxxxxxxxxxxx',/n
+    googleClientSecret: 'xxxxxxxxxxxxxxxxxx',/n
+    mongoURI: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx',/n
+    cookieKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxx',/n
 };
 
 Technologies (tools, libraries etc.) that are included in this version:
