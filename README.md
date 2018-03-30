@@ -13,6 +13,8 @@ module.exports = {
     cookieKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxx',  
 };  
   
+A middleware called requireLogin.js is included in the project, you may use it with your route handlers to make some actions only available when the user is logged in.   
+  
 Technologies (tools, libraries etc.) that are included in this version:  
   
 create-react-app  
